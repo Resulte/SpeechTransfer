@@ -3,7 +3,7 @@
 
 ### 效果展示
 
-![](\show.jpg)
+![](https://github.com/Resulte/SpeechTransfer/blob/master/show.jpg)
 
 ### 功能展示
 
