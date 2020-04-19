@@ -3,7 +3,7 @@
 
 ### 效果展示
 
-![](https://github.com/Resulte/SpeechTransfer/blob/master/show.jpg)
+![image](https://github.com/Resulte/SpeechTransfer/blob/master/show.jpg)
 
 ### 功能展示
 
