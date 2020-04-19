@@ -3,7 +3,7 @@
 
 ### 效果展示
 
-![](C:\Users\admin\Desktop\SpeechTransfer\show.jpg)
+![](\show.jpg)
 
 ### 功能展示
 
